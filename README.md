@@ -27,19 +27,7 @@ Now its time to go for some coding...
 
 Dont forget to give a Clap to Medium Page and Kudos to this repo if it has helped you,
 
-Follow me on :
-<br>
-<a class="github-button" href="https://www.linkedin.com/in/raj-vishwakarma0159">@linkedin</a>
-<br>
-<a class="github-button" href="https://www.facebook.com/edutechload/">@facebook</a>
-<br>
-<a class="github-button" href="https://www.youtube.com/edutech%20load">@youtube</a>
-<br>
-<a class="github-button" href="https://medium.com/@dc.vishwakarma.raj">@medium</a>
-<br>
-<a class="github-button" href="https://github.com/neon97">@github</a>
 
-I have uploaded Screenshots of the UI.
 
 <h3>Scanner Page scan.dart</h3> 
 <img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-11%20at%2010.18.40.png?raw=true"  width="200" >
